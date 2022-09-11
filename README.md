@@ -1,2 +1,2 @@
 # express-api
-A simple express JS APIcreated with the purpose of learning Node
+A simple express JS API with MVC pattern
